@@ -1,0 +1,21 @@
+fastapi==0.115.2
+websockets==13.1
+urllib3==1.26.20
+pycryptodome==3.20.0
+requests==2.32.3
+WMI==1.5.1
+openai==1.51.2
+PyAudio==0.2.14
+opencv-python==4.10.0.84
+Nuitka==2.3.11
+httpx[http2]==0.27.0
+h2==4.1.0
+selenium==3.141.0
+sounddevice==0.5.1
+soundfile==0.12.1
+uvicorn==0.32.0
+
+# douyin
+betterproto==2.0.0b6
+websocket-client==1.7.0
+mini_racer==0.12.4
