@@ -9,7 +9,7 @@
 #### 更多功能陆陆续续上线中·····
 #### 小程序追光助手宝也上线中，点击：#小程序://追光AI/GpbalIJ64dGtRYq
 #### 体验网站：zgz.wazgz.com
-![15bb9ae63149d5658ee9f06263ca48c7](https://github.com/user-attachments/assets/432b9bb0-acad-4525-989d-6347706e09b2)
+
 
 
 ####  无人直播 AI本地云端语音回复，全网支持主流平台：Tiktok/抖音/快手/视频号 /小红书/拼多多/美团/淘宝等。特色功能：一键实时去重、音画同步、数字人服务等
@@ -30,6 +30,7 @@
 # V+hgb9803（备注：“github”；否则不通过）
 
 下图展示软件界面截图，tiktok端的，国内平台和下面截图一样的
+![15bb9ae63149d5658ee9f06263ca48c7](https://github.com/user-attachments/assets/432b9bb0-acad-4525-989d-6347706e09b2)
 <img width="1387" height="889" alt="监控界面" src="https://github.com/user-attachments/assets/0e5cee30-88d4-4abf-a3b1-c6e8847269df" />
 <img width="1385" height="944" alt="本地模型" src="https://github.com/user-attachments/assets/f32f96f3-845f-46bb-becc-059639078670" />
 <img width="1386" height="945" alt="云端模型" src="https://github.com/user-attachments/assets/f586a2f7-7ff3-4216-88cd-8085f57666ab" />
