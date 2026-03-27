@@ -28,8 +28,10 @@
 ###### 10，实时数字人，实时对口型，直播间安全性拉满
 # V+hgb9803（备注：“github”；否则不通过）
 
-下图展示软件界面截图，tiktok端的，国内平台和下面截图一样的
+
 ![15bb9ae63149d5658ee9f06263ca48c7](https://github.com/user-attachments/assets/432b9bb0-acad-4525-989d-6347706e09b2)
+
+下图展示软件界面截图，tiktok端的，国内平台和下面截图一样的
 <img width="1387" height="889" alt="监控界面" src="https://github.com/user-attachments/assets/0e5cee30-88d4-4abf-a3b1-c6e8847269df" />
 <img width="1385" height="944" alt="本地模型" src="https://github.com/user-attachments/assets/f32f96f3-845f-46bb-becc-059639078670" />
 <img width="1386" height="945" alt="云端模型" src="https://github.com/user-attachments/assets/f586a2f7-7ff3-4216-88cd-8085f57666ab" />
